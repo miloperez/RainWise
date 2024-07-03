@@ -44,7 +44,7 @@ def getSatelliteImg(centro, zoom):
 
     size = '640x640'
 
-    url = 'https://maps.googleapis.com/maps/api/staticmap?center=' + lat + ','+ lng +'&zoom='+ zoom +'&size=' + size +'&maptype=satellite&key=AIzaSyCdMtQIra0YTQ3vs-9F5SOv4fpatEOPJFs'
+    url = 'https://maps.googleapis.com/maps/api/staticmap?center=' + lat + ','+ lng +'&zoom='+ zoom +'&size=' + size +'&maptype=satellite&key=API_KEY'
     save_as = 'static/img.jpg'
 
     urllib.request.urlretrieve(url, save_as)
