@@ -5,7 +5,6 @@ import pandas as pd
 import plotly.express as px
 import cv2
 from ultralytics import YOLO
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import date
 import math
