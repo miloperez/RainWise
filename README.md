@@ -30,6 +30,7 @@ TBD
       </a>
       <sub><b><a href="https://github.com/Pizzanami">Itzanami Berlanga</a></b></sub><br />
       <sub>Lic. en Sistemas de Información Administrativa</sub>
+      <br>
       <sub>Experta en Ingeniería de Datos</sub>
     </td>
     <td align="center">
@@ -47,6 +48,7 @@ TBD
       </a>
       <sub><b><a href="https://github.com/LordAngel11">Juan Ángel Lopez</a></b></sub><br />
       <sub>Lic. en Matemáticas</sub>
+      <br>
       <sub>Experto en Modelos Matemáticos</sub>
     </td>
     <td align="center">
@@ -55,6 +57,7 @@ TBD
       </a>
       <sub><b><a href="https://github.com/miloperez">Emilio Pérez</a></b></sub><br />
       <sub>Lic. en Sistemas de Información Administrativa</sub>
+      <br>
       <sub></sub>
     </td>
   </tr>
