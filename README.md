@@ -38,6 +38,7 @@ TBD
       </a>
       <sub><b><a href="https://github.com/osvacerna">Osvaldo Cerna</a></b></sub><br />
       <sub>Lic. en Computación Matemática</sub>
+      <br>
       <sub>Experto en Visión por Computadora</sub>
     </td>
     <td align="center">
